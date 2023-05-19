@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leticia  🖐️
+## Olá! Eu sou Leticia  🖐️
 
 
 <a href = "mailto:leticiamontandon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
