@@ -1,54 +1,18 @@
-## Meus códigos na linguagem PHP+HTML 
+## Olá! Eu sou o Leticia  🖐️
 
-<html>
-  <head>
-    <title>CTIT-CEFORES/UFTM</title>
-  </head>
-  <body>
-    <h2>Form html + php </h2>
-   <?php
-     
-    if (isset( $_REQUEST["inome"] )) {
-      echo "<h2>".$_REQUEST["inome"]. " ; " . 
-        $_REQUEST["icarro"]." ; " . 
-        $_REQUEST["isenha"]." ; " . 
-        $_REQUEST["iSexo"]." ; " . 
-        $_REQUEST["filmes"]." ; " . 
-        $_REQUEST["iNasceu"]." ; " . 
-        $_REQUEST["iEmail"]." ; " . 
-        $_REQUEST["iSalário"] . " </h2> ";
-    } else {
-      echo "<h2>Informe seus dados para cadastro</h2>";
-    }
-    ?>
-    
-    
-    
-    <form action= "p11.php" method = "post">
-	  <label for="inome">Nome:</label><input type="text" id="inome" name="inome"><br>
-  		<label for="icarro">Qual seu veiculo:</label>
-		<select id="icarro" name="icarro">
- 		 <option value="f">Fiat</option>
-	  <option value="v">VW</option>
-  	<option value="g">GM</option>
- 	 <option value="b">BMW</option>
-       <option value="o">Outros</option>
-	</select><br>
-      <label for="isenha">Senha:</label><input type="password" id="isenha" name="isenha"><br>
-      Sexo:
-      <label for="iMasc">Masculino</label><input type="radio" id="iMasc" name="iSexo" value="Masculino">
-       <label for="iFem">Feminino</label><input type="radio" id="iFem" name="iSexo" value="Feminino"><br>
-     Filmes:
-       <label for="iTerror">Terror</label><input type="checkbox" id="iTerror" name="filmes" value="terror">
-        <label for="iAventura">Aventura</label><input type="checkbox" id="iAventura" name="filmes" value="aventura">
-        <label for="iDrama">Drama</label><input type="checkbox" id="iDrama" name="filmes" value="drama">
-        <label for="iComédia">Comédia</label><input type="checkbox" id="iComédia" name="filmes" value="comédia">
-        <label for="iAnimação">Animação</label><input type="checkbox" id="iAnimação" name="filmes" value="animação"><br>
-      <label for="iNasceu">Data de Nascimento:</label><input type="date" id="iNasceu" name="iNasceu"><br>
-        <label for="iEmail">E-mail:</label><input type="email" id="iEmail" name="iEmail"><br>
-       <label for="iSalario">Salário:</label><input type="number" id="iSalário" name="iSalário" min= "1200" max = "99999">
-      <br>
-      <input type="submit" value="Cadastrar">
-</form>    
-  </body>
-</html>
+
+<a href = "mailto:leticiamontandon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/leticia_montandon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></
+   <a ></a>
+![Montandole GitHub stats](https://github-readme-stats.vercel.app/api?username=Montandonle&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/Montandonle/Montandonle/blob/output/github-contribution-grid-snake.svg)
+
+ ## tecnologias que estou aprendendo
+ 
+<div style="display: inline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /
+
+</div><br/>
+ 
+ ## Nunca desista!!
