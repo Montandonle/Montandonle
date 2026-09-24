@@ -1,17 +1,29 @@
-## Olá! Eu sou Leticia  🖐️
+👋 Olá, eu sou a Letícia!
 
+💻 Desenvolvedor | Python | SQL | HTML
 
-<a href = "mailto:leticiamontandon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/leticia_montandon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender novas ferramentas, aprimorar minhas habilidades e transformar ideias em projetos práticos.
 
- ![Montandole GitHub stats](https://github-readme-stats.vercel.app/api?username=Montandonle&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseop&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+🐍 Python
 
- ## tecnologias que estou aprendendo
- 
-<div style="display: inline_block">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /
+🗄️ SQL
 
-</div><br/>
- 
- ## Nunca desista!!
+🌐 HTML
+
+Aqui você encontrará projetos desenvolvidos para praticar e demonstrar meus conhecimentos em:
+
+🐍 Python
+
+🗄️ SQL
+
+🌐 HTML
+
+📊 Análise de dados
+
+💡 Desenvolvimento de soluções
+
+💻 "Transformando ideias em código."
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
